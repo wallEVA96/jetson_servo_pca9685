@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/button_interrupt.dir/button_interrupt.cpp.o  -o button_interrupt  -Wl,-rpath,/home/two/kuayuexianzu2023/ServoPCA9685/cmake ../libJetsonGPIO.so.1.2.4 -lpthread 

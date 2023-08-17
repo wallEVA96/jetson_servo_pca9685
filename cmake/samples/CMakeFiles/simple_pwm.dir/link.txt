@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/simple_pwm.dir/simple_pwm.cpp.o  -o simple_pwm  -Wl,-rpath,/home/two/kuayuexianzu2023/ServoPCA9685/cmake ../libJetsonGPIO.so.1.2.4 -lpthread 
